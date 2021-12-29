@@ -1,0 +1,17 @@
+*.tmp
+
+# ppt部分
+*.ppt
+*.pptx
+
+# 文档部分
+*.doc
+*.docx
+
+# export pdf 部分
+*.pdf
+
+# package upload 部分
+*.zip
+*.7z
+*.rar
